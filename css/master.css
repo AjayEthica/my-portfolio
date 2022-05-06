@@ -16,28 +16,6 @@ a{
   color: #4B7BE5;
 
 }
-.BUTTON_NJE {
-   background: #FF7700;
-   border-width: 0;
-   border-radius: 5px;
-   font-family: Verdana;
-   font-size: 20px;
-   font-weight: 20;
-   color: #E8F9FD;
-   padding: 8px;
-   margin: 20px;
-   text-decoration: none;
-   display: inline-block;
-   cursor: pointer;
-   text-align: center;
-}
-
-.BUTTON_NJE:hover {
-   background: #FF7700;
-   border-radius: 5px;
-   text-decoration: none;
-}
-
 #bird1{
   margin-left: 65%;
 }
